@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace KarGlobal.AutoVIN.BankingSystem.Models.Account
 {
-    public class Investment : BaseAccount
+    public class Investment : BaseAccount, IInvestmentAccount
     {
         private InvestmentAccountType _investmentAccountType;
 

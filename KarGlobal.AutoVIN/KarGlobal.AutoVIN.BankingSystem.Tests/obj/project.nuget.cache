@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9WhELqLsl49el+k/hUdRuShg1j7UyOomXTpWX7lTbIV1GLpn+eQmDwg7NOsG3RmzzoIHagp7zV5dZkPjX7Vgg==",
+  "dgSpecHash": "3bQCOhPC83xqY6WOTnHmfGGyvZX573oWoTHd9aInXi67e4ExvE380xi4NG8x43rCn93xCGMod9J5Ld/7sPMGMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Avi\\source\\repos\\KarGlobal.AutoVIN\\KarGlobal.AutoVIN.BankingSystem.Tests\\KarGlobal.AutoVIN.BankingSystem.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\KarGlobal.AutoVIN\\KarGlobal.AutoVIN\\KarGlobal.AutoVIN.BankingSystem.Tests\\KarGlobal.AutoVIN.BankingSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avi\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\Avi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

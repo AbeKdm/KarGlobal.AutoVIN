@@ -22,3 +22,15 @@ C:\Git\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\D
 C:\Git\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\refint\KarGlobal.AutoVIN.BankingSystem.dll
 C:\Git\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.pdb
 C:\Git\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\ref\KarGlobal.AutoVIN.BankingSystem.dll
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\bin\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.deps.json
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\bin\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.dll
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\bin\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.pdb
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.csproj.AssemblyReference.cache
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.AssemblyInfoInputs.cache
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.AssemblyInfo.cs
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.csproj.CoreCompileInputs.cache
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.dll
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\refint\KarGlobal.AutoVIN.BankingSystem.dll
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\KarGlobal.AutoVIN.BankingSystem.pdb
+C:\Projects\KarGlobal.AutoVIN\KarGlobal.AutoVIN\KarGlobal.AutoVIN.BankingSystem\obj\Debug\net6.0\ref\KarGlobal.AutoVIN.BankingSystem.dll
